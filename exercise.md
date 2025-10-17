@@ -1,14 +1,14 @@
-Will AI Take Our Jobs?  
+<h1>Will AI Take Our Jobs?</h1>
 
-CAUTION: This is AI-generated overview on the given topic.
+>CAUTION: This is AI-generated overview on the given topic.
 
-TL;DR: AI won’t replace all jobs, but it will reshape tasks within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, how quickly we reskill, and which policies we put in place.
+><b>TL;DR</b>: AI won’t replace all jobs, but it will reshape <b>tasks</b> within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on <b>how</b> we adopt AI, how quickly we <b>reskill</b>, and which <b>policies</b> we put in place.
 
 ---
 
-1) The wrong question: jobs vs. tasks
+<h2>1) The wrong question: jobs vs. tasks</h2>
 
-When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies automate tasks, which changes job content, productivity, and demand. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies <b>automate</b> tasks, which changes<b> job content, productivity</b>, and <b>demand</b>. That’s why economists talk about task-level automation rather than job-level extinction.
 
 - Automation: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
 - Augmentation: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
