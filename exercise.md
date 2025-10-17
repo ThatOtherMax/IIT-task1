@@ -10,25 +10,25 @@
 
 When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies <b>automate</b> tasks, which changes<b> job content, productivity</b>, and <b>demand</b>. That’s why economists talk about task-level automation rather than job-level extinction.
 
-- Automation: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
-- Augmentation: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
-- Reallocation: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
+- <b>Automation</b>: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
+- <b>Augmentation</b>: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
+- <b>Reallocation</b>: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
 
 A good rule of thumb:
 
-| Today’s reality | What changes with AI |
+| <b>Today’s reality</b> | <b>What changes with AI</b> |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
-| Experience → productivity gains. | AI can compress the experience curve for juniors. |
+| Experience → productivity gains. | AI can <b>compress the experience curve</b> for juniors. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
 Key idea: Tasks are automated; jobs are redesigned.
 
 ---
 
-2) What the best recent evidence says
+<h2>2) What the best recent evidence says</h2>
 
-Short‑term productivity effects (micro evidence).  
+<b>Short‑term productivity effects (micro evidence).</b>  
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased issues resolved per hour by ~14%, with the biggest gains for the least‑experienced agents—and better customer sentiment.[^nber]  
 - A preregistered experiment with 444 professionals on writing tasks showed time to complete fell ~37% and quality rose ~0.4 SD with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
